@@ -1,4 +1,4 @@
-# Time-Series-Cross-Validation-for-weather-prediction
+# Time-Series-Cross-Validation-for-a-RR-model
 
 
 ### Data source
@@ -14,7 +14,7 @@
 
 ### Script
 
-[]()
+[TSCV for a RR model.ipynb](https://github.com/GBlanch/Time-Series-Cross-Validation-for-a-RR-model/blob/main/TSCV%20for%20a%20RR%20model.ipynb)
 
 
 
